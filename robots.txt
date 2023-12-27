@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://idrpoker.de-rse.org/sitemap.xml
